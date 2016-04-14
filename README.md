@@ -1,3 +1,12 @@
+Atom packages of my choice
+---
+|package name|
+|-----|
+|linter-jshint|
+|atom-beautify|
+|react|
+||
+
 HotKeys for terminator
 ---
 
