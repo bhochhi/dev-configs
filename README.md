@@ -5,6 +5,9 @@ Atom packages of my choice
 |linter-jshint|
 |atom-beautify|
 |react|
+|language-babel|
+|file-icons|
+||
 ||
 
 HotKeys for terminator
