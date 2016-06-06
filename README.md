@@ -7,7 +7,7 @@ Atom packages of my choice
 |react|
 |language-babel|
 |file-icons|
-||
+|atom-ternjs|
 ||
 
 HotKeys for terminator
