@@ -8,6 +8,7 @@ Atom packages of my choice
 |language-babel|
 |file-icons|
 |atom-ternjs|
+|angularjs|
 ||
 
 HotKeys for terminator
