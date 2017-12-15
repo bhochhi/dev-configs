@@ -1,3 +1,7 @@
+[IntelliJ and Eclipse shortcuts](https://www.catalysts.cc/en/wissenswertes/intellij-idea-and-eclipse-shortcuts/)
+---
+
+
 Atom packages of my choice
 ---
 |package name|
