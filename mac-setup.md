@@ -2,6 +2,10 @@ Resources
 ---
 * https://sourabhbajaj.com/mac-setup
 
+zsh swag
+----  
+* https://medium.freecodecamp.org/jazz-up-your-zsh-terminal-in-seven-steps-a-visual-guide-e81a8fd59a38 
+
 
 * Docker config
 
