@@ -32,3 +32,8 @@ HotKeys for terminator
 |CTRL+SHIFT + x|Toggle terminal to full/maximum window|
 |F11|Toggle fullscreen|
 |Drag and Drop| Hold the terminal on its titlebar and drag and drop where needed|
+
+
+Intellij plugins:
+---
+1. https://github.com/bestwu/gradle-dependencies-plugins-helper-plugin/blob/master/README.md
