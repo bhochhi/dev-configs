@@ -5,6 +5,10 @@ Resources
 zsh swag
 ----  
 * https://medium.freecodecamp.org/jazz-up-your-zsh-terminal-in-seven-steps-a-visual-guide-e81a8fd59a38 
+* prompt: https://github.com/denysdovhan/spaceship-prompt
+* powerline-fonts: https://github.com/powerline/fonts
+
+
 
 
 * Docker config
