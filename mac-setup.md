@@ -34,7 +34,7 @@ export JAVA_HOME=`/usr/libexec/java_home -v 1.8` ==> to use 1.8 as default. add 
 
 homebrew
 ---
-| Commands  |  Comments |
+| [Commands](https://devhints.io/homebrew)  |  Comments |
 |---|---|
 |brew install git  |	Install a package |
 |brew upgrade git	 | Upgrade a package |
@@ -47,5 +47,8 @@ homebrew
 |brew edit git|	Edit this formula|
 |brew cat git|	Print this formula|
 |brew home git|	Open homepage|
+|brew update	|Update brew and cask|
+|brew list|	List installed|
+|brew outdated	| What’s due for upgrades?|
 |--|--|
 
