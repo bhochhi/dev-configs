@@ -32,6 +32,20 @@ brew install <version>  ==> find available version from https://github.com/Adopt
 export JAVA_HOME=`/usr/libexec/java_home -v 1.8` ==> to use 1.8 as default. add this export JAVA_HOME into shell init to make is persistance. 
 ```
 
-
-
+homebrew
+---
+| Commands  |  Comments |
+|---|---|
+|brew install git  |	Install a package |
+|brew upgrade git	 | Upgrade a package |
+|brew unlink git	 | Unlink |
+|brew link git	 | Link |
+|brew switch git 2.5.0  |	Change versions  |
+|brew list --versions git  |	See what versions you have|
+|brew info git|	List versions, caveats, etc|
+|brew cleanup git|	Remove old versions|
+|brew edit git|	Edit this formula|
+|brew cat git|	Print this formula|
+|brew home git|	Open homepage|
+|--|--|
 
