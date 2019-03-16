@@ -34,6 +34,11 @@ HotKeys for terminator
 |Drag and Drop| Hold the terminal on its titlebar and drag and drop where needed|
 
 
+| | |
+|-|-|
+|push all branches to all remote|git config --global alias.pushall '!git remote | xargs -L1 git push --all'|
+
+
 Intellij plugins:
 ---
 1. https://github.com/bestwu/gradle-dependencies-plugins-helper-plugin/blob/master/README.md
