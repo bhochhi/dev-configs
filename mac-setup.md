@@ -30,7 +30,11 @@ brew install <version>  ==> find available version from https://github.com/Adopt
 
 /usr/libexec/java_home -V  ==> know what versions are installed and which one is current default.
 export JAVA_HOME=`/usr/libexec/java_home -v 1.8` ==> to use 1.8 as default. add this export JAVA_HOME into shell init to make is persistance. 
+
 ```
+```alias j8="export JAVA_HOME=`/usr/libexec/java_home -v 1.8`; java -version"```  
+```alias j11="export JAVA_HOME=`/usr/libexec/java_home -v 11`; java -version"``` . 
+
 
 homebrew
 ---
