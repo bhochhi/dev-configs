@@ -39,6 +39,11 @@ HotKeys for terminator
 |push all branches to all remote|git config --global alias.pushall '!git remote | xargs -L1 git push --all'|
 
 
+VSCode
+---
+1. [Tips to use VSCode more efficiently](https://dev.to/selrond/tips-to-use-vscode-more-efficiently-3h6p?utm_source=digest_mailer&utm_medium=email&utm_campaign=digest_email)
+2. 
+
 Intellij plugins:
 ---
 1. https://github.com/bestwu/gradle-dependencies-plugins-helper-plugin/blob/master/README.md
